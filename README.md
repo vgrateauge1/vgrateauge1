@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Valetin Grateau </h1>
 <h3 align="center">A passionate student about Computer science.</h3>
-<h3 align="center">For more informations see <a href="cv.pdf">[my resume : CV]</a></h3>
+<h3 align="center">Looking for an internship for 10 to 12 weeks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgrateauge1&label=Profile%20views&color=0e75b6&style=flat" alt="vgrateauge1" /> </p>
 
