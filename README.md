@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lgrateau/lgrateau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vgrateauge1/vgrateauge1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Valetin Grateau </h1>
 <h3 align="center">A passionate student about Computer science.</h3>
-<h3 align="center">Looking for an internship for 10 to 12 weeks.</h3>
+<h1 align="center">Cherche un contrat d'apprentissage en école d'ingénieur en Informatique.</h1>
+
+<h3 align="center">Pour plus d'informations voir  <a href="cv.pdf">[mon CV]</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgrateauge1&label=Profile%20views&color=0e75b6&style=flat" alt="vgrateauge1" /> </p>
 
