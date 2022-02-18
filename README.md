@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Valetin Grateau </h1>
 <h3 align="center">A passionate student about Computer science.</h3>
-<h3 align="center">Cherche un contrat d'apprentissage en école d'ingénieur en Informatique.</h3>
+<h1 align="center">Cherche un contrat d'apprentissage en école d'ingénieur en Informatique.</h1>
 
 <h3 align="center">Pour plus d'informations voir  <a href="cv.pdf">[mon CV]</a></h3>
 
